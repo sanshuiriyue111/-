@@ -1,0 +1,247 @@
+Noise Analysis Summary Report
+==============================
+
+Image: 19.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 3.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 35.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0273%
+  Pepper Ratio: 0.0000%
+  Moran's I: 838.3713
+
+Image: 38.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0457%
+  Pepper Ratio: 0.0000%
+  Moran's I: 628.7100
+
+Image: 29.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 10.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0503%
+  Pepper Ratio: 0.0000%
+  Moran's I: 560.3800
+
+Image: 24.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 17.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 12.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0374%
+  Pepper Ratio: 0.0000%
+  Moran's I: 1568.6605
+
+Image: 18.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 30.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.3058%
+  Moran's I: 229.0714
+
+Image: 9.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0819%
+  Pepper Ratio: 0.0000%
+  Moran's I: 384.0060
+
+Image: 39.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0066%
+  Pepper Ratio: 0.0000%
+  Moran's I: 1262.5450
+
+Image: 7.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0093%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0001
+
+Image: 40.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0003%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 37.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0039%
+  Pepper Ratio: 0.0000%
+  Moran's I: 657.4364
+
+Image: 21.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 22.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 26.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 25.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 34.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0115%
+  Pepper Ratio: 0.0000%
+  Moran's I: 264.6202
+
+Image: 8.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 27.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 2.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 6.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.2145%
+  Pepper Ratio: 0.0000%
+  Moran's I: 257.8542
+
+Image: 14.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 16.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.4002%
+  Moran's I: 186.6572
+
+Image: 13.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0035%
+  Pepper Ratio: 0.0000%
+  Moran's I: 5305.9165
+
+Image: 32.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0507%
+  Pepper Ratio: 0.0000%
+  Moran's I: 268.8258
+
+Image: 15.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 33.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0061%
+  Pepper Ratio: 0.0000%
+  Moran's I: 287.5867
+
+Image: 28.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 1.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 23.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 11.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0163%
+  Pepper Ratio: 0.0000%
+  Moran's I: 1564.1166
+
+Image: 31.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0132%
+  Pepper Ratio: 0.0000%
+  Moran's I: 725.5515
+
+Image: 4.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Image: 5.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.3952%
+  Moran's I: 187.7622
+
+Image: 36.png
+  Gaussian p-value: 0.0000
+  Salt Ratio: 0.0433%
+  Pepper Ratio: 0.0000%
+  Moran's I: 155.2366
+
+Image: 20.png
+  Gaussian p-value: 1.0000
+  Salt Ratio: 0.0000%
+  Pepper Ratio: 0.0000%
+  Moran's I: 0.0000
+
+Overall Conclusion:
+- 18/40 images suggest Gaussian noise
+- 4/40 images suggest salt-and-pepper noise
+- Dataset contains mixed noise types
