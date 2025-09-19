@@ -1,0 +1,15 @@
+{
+  "perception": {
+    "front_car_distance": null,
+    "has_pedestrian": false,
+    "traffic_light_color": null,
+    "lane_obstacle": false,
+    "adjacent_lane_car": false
+  },
+  "strategy": {
+    "brake": false,
+    "throttle": true,
+    "throttle_strength": 0.3,
+    "steering_angle": 0.0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "perception": {
+    "front_car_distance": null,
+    "has_pedestrian": false,
+    "traffic_light_color": null,
+    "lane_obstacle": false,
+    "adjacent_lane_car": true
+  },
+  "strategy": {
+    "lane_obstacle": false,
+    "adjacent_lane_car": true,
+    "traffic_light_color": null,
+    "front_car_distance": null,
+    "has_pedestrian": false
+  }
+}
